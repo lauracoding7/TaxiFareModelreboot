@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/laurameyer/code/lauracoding7/TaxiFareModelreboot/mlruns/1/d5c10a5d389441bcb91c5b9090f67681/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d5c10a5d389441bcb91c5b9090f67681
+run_uuid: d5c10a5d389441bcb91c5b9090f67681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653395133575
+status: 1
+tags: []
+user_id: unknown
